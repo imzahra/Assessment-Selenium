@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.test.selenium.TC010_IncrementCartQuantityTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 86.96 s -- in com.test.selenium.TC010_IncrementCartQuantityTest

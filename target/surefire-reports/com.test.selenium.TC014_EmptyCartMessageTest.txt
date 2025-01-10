@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.test.selenium.TC014_EmptyCartMessageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 55.07 s -- in com.test.selenium.TC014_EmptyCartMessageTest

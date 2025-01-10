@@ -1,0 +1,9 @@
+<suite name="PeriplusTests" verbose="1">
+    <test name="Shopping Cart Tests">
+        <classes>
+<!--            <class name="com.test.selenium.TC008_AddToCartTest"/>-->
+            <class name="com.test.selenium.TC009_ContinueShoppingTest"/>
+<!--            <class name="com.test.selenium.TC010_IncrementCartQuantityTest"/>-->
+        </classes>
+    </test>
+</suite>

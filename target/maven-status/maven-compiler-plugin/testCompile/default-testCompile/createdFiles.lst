@@ -1,0 +1,8 @@
+com\test\selenium\TC008_AddToCartTest.class
+com\test\selenium\TC014_EmptyCartMessageTest.class
+com\test\selenium\TC015_PersistCartOnLogoutTest.class
+com\test\selenium\TC009_ContinueShoppingTest.class
+com\test\selenium\TC011_VerifyTotalAmountTest.class
+com\test\selenium\TC013_RemoveItemMessageTest.class
+com\test\selenium\TC010_IncrementCartQuantityTest.class
+com\test\selenium\TC012_RemoveItemTest.class

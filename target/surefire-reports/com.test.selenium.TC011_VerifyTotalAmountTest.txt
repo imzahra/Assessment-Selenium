@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.test.selenium.TC011_VerifyTotalAmountTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 173.7 s -- in com.test.selenium.TC011_VerifyTotalAmountTest

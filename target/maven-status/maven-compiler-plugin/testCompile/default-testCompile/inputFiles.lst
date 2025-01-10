@@ -1,0 +1,15 @@
+D:\.KERJA\web test\SeleniumTestProject\src\test\java\com\test\selenium\TC008_AddToCartTest.java
+D:\.KERJA\web test\SeleniumTestProject\src\test\java\com\test\selenium\TC009_ContinueShoppingTest.java
+D:\.KERJA\web test\SeleniumTestProject\src\test\java\com\test\selenium\TC010_IncrementCartQuantityTest.java
+D:\.KERJA\web test\SeleniumTestProject\src\test\java\com\test\selenium\TC011_VerifyTotalAmountTest.java
+D:\.KERJA\web test\SeleniumTestProject\src\test\java\com\test\selenium\TC012_RemoveItemTest.java
+D:\.KERJA\web test\SeleniumTestProject\src\test\java\com\test\selenium\TC013_RemoveItemMessageTest.java
+D:\.KERJA\web test\SeleniumTestProject\src\test\java\com\test\selenium\TC014_EmptyCartMessageTest.java
+D:\.KERJA\web test\SeleniumTestProject\src\test\java\com\test\selenium\TC015_PersistCartOnLogoutTest.java
+D:\.KERJA\web test\SeleniumTestProject\src\test\java\com\test\selenium\TC016_VerifyTotalPrice.java
+D:\.KERJA\web test\SeleniumTestProject\src\test\java\com\test\selenium\TC017_AddUnavailableProduct.java
+D:\.KERJA\web test\SeleniumTestProject\src\test\java\com\test\selenium\TC018_VerifyQuantity.java
+D:\.KERJA\web test\SeleniumTestProject\src\test\java\com\test\selenium\TC019_LoginCart.java
+D:\.KERJA\web test\SeleniumTestProject\src\test\java\com\test\selenium\TC020_VerifyProductDetails.java
+D:\.KERJA\web test\SeleniumTestProject\src\test\java\com\test\selenium\TC021_VerifyLargeQuantity.java
+D:\.KERJA\web test\SeleniumTestProject\src\test\java\com\test\selenium\TC022_VerifyMultipleProducts.java
